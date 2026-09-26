@@ -1,4 +1,4 @@
-# TTGW: Crossover mayehm
+# TTGW: Crossover mayhem
 
 A Mod that makes the game harsher if it becomes too easy.
 
